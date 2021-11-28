@@ -1,0 +1,15 @@
+Procon-SP notifica Claro, Oi, Tim, Vivo e Psafe por vazamento de dados
+
+Empresa de cibersegurança diz que hacker que se encontra fora do Brasil está vendendo os dados vazados
+
+O Procon-SP notificou as operadoras de telefonia Claro, Oi, Tim e Vivo e também a empresa de segurança digital Psafe, para fornecerem informações sobre o suposto vazamento dos dados de mais de cem milhões de celulares. As teles devem confirmar se houve vazamento de dados pessoais de suas bases, e, caso positivo, explicar os motivos do incidente. Também é preciso detalhar quais foram as medidas tomadas para contê-lo e informar quais serão as abordagens para reparar os danos causados pelo incidente e evitar que a falha aconteça novamente.
+
+Enquanto a Psafe, empresa que confirmou o vazamento de quase 103 milhões de contas na dark web (parte da internet que não é indexada pelos mecanismos de busca e fica oculta ao grande público) deverá explicar como foi informada a respeito do vazamento de dados, assim como o que a motivou a torná-lo público. A empresa de cibersegurança teria declarado que foi contatada por um hacker que se encontra fora do Brasil e está vendendo os dados vazados.
+
+O Procon-SP reivindica que a Psafe esclareça como aconteceu esse suposto contato com o hacker que noticiou o vazamento. Além da confirmação de quais informações foram vazadas e se o vazamento ocorreu apenas no ambiente conhecido como dark web. O diretor executivo do Órgão de Defesa do Consumidor, Fernando Capez, alerta que “esses vazamentos são gravíssimos e permitirão que sejam aplicados muitos golpes. O Procon-SP já está investigando e pede que as pessoas tomem máxima cautela, desconfiem de tudo e jamais passem dados pessoais ou entrem em sites que não conheçam.”
+
+LGPD – Lei Federal 13.709
+As empresas citadas também foram questionadas a respeito de suas bases de dados pessoais. Como, por exemplo, a finalidade e a base legal para o tratamento de dados pessoais, a política de descarte e o armazenamento dos dados. Há o questionamento, ainda, sobre quais medidas técnicas e organizacionais são adotadas para o cumprimento das determinações da Lei Geral de Proteção de Dados (LGPD).
+
+A LGPD entrou em vigor em setembro de 2020, com o objetivo de disciplinar as regras sobre tratamento e armazenamento de dados pessoais, restabelecer ao titular desses dados o controle de suas informações e proteger os direitos fundamentais de liberdade e de privacidade.
+
